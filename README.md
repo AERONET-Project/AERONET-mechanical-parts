@@ -1,0 +1,1 @@
+This repository contains various 3d files (usually .stl format) used to 3d print parts used with Cimel sun photometer systems as part of the AERONET program network as well as instructions on their assembly and use, where necessary. All the parts have been printed and tested in the AERONET lab using a Prusa i3 MK3S+ FDM printer. 
